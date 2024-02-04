@@ -22,6 +22,7 @@ This is a RESTful API for managing restaurant data using Node.js, Express.js, an
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author] (#author)
 
 ## Introduction
 
